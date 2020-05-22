@@ -5,6 +5,8 @@ By Neil Isserow
 Customer Success Manager - MAPBU
 May 2020
 
+git clone https://github.com/neiliss/hkii3.git
+
 Scenario:
 We will deploy an application that consists of a number of components to TAS. These components are as follows:
 
@@ -127,7 +129,7 @@ Let’s deploy our Heroes and Threats app again but this time use internal routi
 Threats -> Heroes web service.
 
 download the app from git
-git clone git@github.com:neiliss/hkii3.git
+git clone https://github.com/neiliss/hkii3.git
 
 CF Push the heroes and threats app and ensure they work
 
