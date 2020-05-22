@@ -1,0 +1,8 @@
+---
+applications:
+- name: heroes
+  command: node heroes.js
+  memory: 256M
+  instances: 1
+  buildpack: nodejs_buildpack
+  random-route: false
